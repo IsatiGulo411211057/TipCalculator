@@ -1,4 +1,4 @@
-# Isati Gulo - 411211057 -latihan 1
+# Isati Gulo - 411211057 -latihan 4
 hasil kodingan
 <center>  
   <img src="gambar-1.jpg" />
